@@ -1,9 +1,9 @@
 # Site settings
-title: 袁英杰
-description: Darwin Yuan
+title: Having fun
+description: Finn Yang
 favicon: /assets/img/banner.png
 baseurl:
-url: https://godsme.github.io
+url: https://youngfn.github.io/
 rss_url:
 
 # Build settings
@@ -11,7 +11,7 @@ rss_url:
 highlight: true
 #highlighter: rouge
 
-timezone: Asia/Shanghai
+timezone: Asia/DongGuan
 
 markdown: kramdown
 kramdown:
